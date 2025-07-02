@@ -3,4 +3,12 @@ body{
     color: blue;
     text-align: justify;
     font-size: 30px
+}
+
+h1{
+    background-color: black;
+    color: white;
+    font-size: center;
+    font-size: 40px;
+}
 
